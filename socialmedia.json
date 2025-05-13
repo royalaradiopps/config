@@ -1,0 +1,20 @@
+[
+  {
+    "enable": false,
+    "name": "Website",
+    "icon": "https://png.pngtree.com/png-vector/20220520/ourmid/pngtree-blue-browser-icon-internet-and-network-vectors-sign-buttons-hand-vector-png-image_46366036.jpg",
+    "url": "https://solodroid.co.id"
+  },
+  {
+    "enable": false,
+    "name": "YouTube",
+    "icon": "https://cdn-icons-png.flaticon.com/512/270/270834.png",
+    "url": "https://www.youtube.com/@SolodroidDeveloper"
+  },
+  {
+    "enable": false,
+    "name": "Instagram",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png",
+    "url": "https://www.instagram.com/solodroid.dev/"
+  }
+]
